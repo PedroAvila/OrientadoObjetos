@@ -1,0 +1,7 @@
+C:\Csharp\BranchingDemo\bin\Debug\BranchingDemo.exe.config
+C:\Csharp\BranchingDemo\bin\Debug\BranchingDemo.exe
+C:\Csharp\BranchingDemo\bin\Debug\BranchingDemo.pdb
+C:\Csharp\BranchingDemo\obj\Debug\BranchingDemo.csproj.AssemblyReference.cache
+C:\Csharp\BranchingDemo\obj\Debug\BranchingDemo.csproj.CoreCompileInputs.cache
+C:\Csharp\BranchingDemo\obj\Debug\BranchingDemo.exe
+C:\Csharp\BranchingDemo\obj\Debug\BranchingDemo.pdb
